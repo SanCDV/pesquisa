@@ -1,8 +1,25 @@
-https://github.com/SanCDV/pesquisa.git
-echo "# teste" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M main 
-git remote add origin git@github.com:SanCDV/teste.git
-git push -u origin a Principal
+
+nsbj,mm dnls dmbk,\ KSNDS JKNKBKN
+BKsbjdkd JDNJBN MBKN
+BNKDS\GDIND SN DMS çlmnlnaklcn
+aiudkjgfjiebnf
+kbjkdabd sjjdb
+bdsuakblydgbdwqfygj n j0'i'u8t7ub'mngf'ljlrjg 
+gugugugug
+
+q
+sa
+s
+ada
+dd
+wf
+ef
+wefet
+ryt
+tr
+jryjytjytytyytr
+grdefrytujyjy
+hhfg
+rggrr
+grrrhr
+nekfekn
