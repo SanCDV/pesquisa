@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 nsbj,mm dnls dmbk,\ KSNDS JKNKBKN
 BKsbjdkd JDNJBN MBKN
@@ -24,7 +25,7 @@ rggrr
 grrrhr
 nekfekn
 =======
-https://github.com/SanCDV/pesquisa.git
+https://github.com/SanCDV/pesquisa.git nj
 echo "# teste" >> README.md 
 git init 
 git add README.md 
